@@ -706,6 +706,7 @@
 @media screen and (min-width: 700px) {
   #es-cerave.es-cerave .es-kv {
     position: relative;
+    z-index: 0;
   }
 
   #es-cerave.es-cerave .es-kv__bg {
